@@ -1,16 +1,24 @@
-## Hi there 👋
+💫 About Me:
+🚀 About Me
 
-<!--
-**parvezs2442/parvezs2442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate Full Stack Developer with hands-on experience in building scalable web applications
+🔭 Currently building projects using React.js, Node.js, Express.js, and MongoDB
+🚀 Developed a GenAI-based job portal with intelligent job recommendations
+🌱 Continuously learning and exploring Next.js, system design, and advanced backend concepts
+🤝 Open to collaboration on impactful web and AI-driven projects
+💬 Ask me about JavaScript, MERN stack, APIs, and real-world project development
+⚡ Fun fact: I enjoy solving real-world problems through code and building impactful products
+🌐 Socials:
+email
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+TypeScript React React Router NodeJS Nodemon MySQL MongoDB JavaScript TypeScript CSS3 React Query React MongoDB Git GitHub Express.js Next JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+
+
+
+
+
+
+✍️ Random Dev Quote
