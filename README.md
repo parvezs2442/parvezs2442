@@ -1,5 +1,12 @@
 # 💫 About Me:
-💻 Passionate Full Stack Developer with hands-on experience in building scalable web applications<br>🔭 Currently building projects using React.js, Node.js, Express.js, and MongoDB<br>🚀 Developed a GenAI-based job portal with intelligent job recommendations<br>🌱 Continuously learning and exploring Next.js, system design, and advanced backend concepts<br>🤝 Open to collaboration on impactful web and AI-driven projects<br>💬 Ask me about JavaScript, MERN stack, APIs, and real-world project development<br>⚡ Fun fact: I enjoy solving real-world problems through code and building impactful products
+# 💫 About Me:
+💻 Full Stack Developer with hands-on experience building production-grade web applications using React.js, Next.js, Node.js, Express.js, PostgreSQL, and MongoDB<br>
+🚀 Built and deployed full-stack platforms including an AI-powered recruitment system, real-time collaborative code editor, and Job Tracking SaaS<br>
+🔭 Currently building scalable full-stack applications while exploring cloud deployments with Docker and AWS<br>
+🌱 Continuously learning System Design, scalable backend architecture, DevOps, and modern web technologies<br>
+🤝 Open to collaborating on impactful full-stack, SaaS, and AI-driven projects<br>
+💬 Ask me about JavaScript, TypeScript, React, Next.js, Node.js, REST APIs, PostgreSQL, MongoDB, Docker, and AWS<br>
+⚡ Fun fact: I enjoy turning complex real-world problems into clean, scalable software solutions.
 
 
 ## 🌐 Socials:
