@@ -112,17 +112,10 @@
 
 # 📊 GitHub Stats:
 
-# 📊 GitHub Stats
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=parvezs2442&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=parvezs2442&theme=tokyonight&no-frame=true&row=1&column=6)
-
----
 
 ## 📈 Activity Graph
 
