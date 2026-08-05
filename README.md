@@ -37,6 +37,21 @@
 
 ---
 
+### 🤖 Generative AI
+
+![LLMs](https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-6D28D9?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-6D28D9?style=for-the-badge)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-7C3AED?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-5B21B6?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4F46E5?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-8B5CF6?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
 ### 🎨 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -73,20 +88,6 @@
 
 ---
 
-### 🤖 Generative AI
-
-![LLMs](https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-6D28D9?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-6D28D9?style=for-the-badge)
-![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-7C3AED?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-5B21B6?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4F46E5?style=for-the-badge)
-![Embeddings](https://img.shields.io/badge/Embeddings-8B5CF6?style=for-the-badge)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
-![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
----
 
 ### ☁️ Cloud, DevOps & Tools
 
