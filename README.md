@@ -1,28 +1,176 @@
-# 💫 About Me:
-# 💫 About Me:
-💻 Full Stack Developer with hands-on experience building production-grade web applications using React.js, Next.js, Node.js, Express.js, PostgreSQL, and MongoDB<br>
-🚀 Built and deployed full-stack platforms including an AI-powered recruitment system, real-time collaborative code editor, and Job Tracking SaaS<br>
-🔭 Currently building scalable full-stack applications while exploring cloud deployments with Docker and AWS<br>
-🌱 Continuously learning System Design, scalable backend architecture, DevOps, and modern web technologies<br>
-🤝 Open to collaborating on impactful full-stack, SaaS, and AI-driven projects<br>
-💬 Ask me about JavaScript, TypeScript, React, Next.js, Node.js, REST APIs, PostgreSQL, MongoDB, Docker, and AWS<br>
-⚡ Fun fact: I enjoy turning complex real-world problems into clean, scalable software solutions.
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Parvez%20Saifi&fontColor=ffffff&color=0:6C63FF,100:3B1D78"/>
+</p>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Full+Stack+AI+Engineer;MERN+%7C+Next.js+%7C+TypeScript;LangChain+%7C+LangGraph+%7C+LLMs;Building+Production+Ready+AI+Systems"/>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/parvez-saifi-16940a361/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parvezsaifi2258@gmail.com) 
+<p align="center">
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=parvezs2442&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=parvezs2442&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=parvezs2442&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<a href="mailto:parvezsaifi2258@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge"/></a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=parvezs2442&icon=0&color=0)](https://visitcount.itsvg.in)
+About
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Full Stack AI Engineer passionate about building scalable SaaS platforms, AI agents, RAG systems and cloud-native applications.
+
+Open To
+
+Software Engineer
+
+Full Stack Developer
+
+AI Engineer
+
+GenAI Engineer
+
+Tech Stack
+
+Languages
+
+JavaScript • TypeScript • Python • SQL
+
+Frontend
+
+React • Next.js • Tailwind CSS
+
+Backend
+
+Node.js • Express • FastAPI
+
+Databases
+
+MongoDB • PostgreSQL • Prisma • Redis
+
+Cloud
+
+Docker • AWS • GitHub Actions
+
+AI Expertise
+
+Domain
+
+Level
+
+Details
+
+LLMs
+
+Advanced
+
+Gemini/OpenAI
+
+LangChain
+
+Advanced
+
+Chains & RAG
+
+LangGraph
+
+Advanced
+
+Multi-Agent Workflows
+
+Vector DB
+
+Intermediate
+
+Qdrant
+
+Prompt Engineering
+
+Advanced
+
+Production prompts
+
+Featured Projects
+
+<details>
+<summary><b>Multi-Agent AI Interview Platform</b></summary>
+
+Modern AI interview platform using LangGraph, Redis, Docker and Firebase Authentication.
+
+Category
+
+Details
+
+Stack
+
+React, Node, MongoDB
+
+AI
+
+LangChain + LangGraph
+
+Cloud
+
+AWS
+
+Security
+
+Firebase + JWT
+
+</details>
+
+<details>
+<summary><b>AI SQL Assistant</b></summary>
+
+Natural language to SQL assistant using RAG.
+
+</details>
+
+<details>
+<summary><b>TrackHire SaaS</b></summary>
+
+Job tracking platform built using Next.js + PostgreSQL + Prisma.
+
+</details>
+
+GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=parvezs2442&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvezs2442&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=parvezs2442&theme=tokyonight"/>
+</p>
+
+Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=parvezs2442&theme=tokyo-night"/>
+</p>
+
+Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/parvezs2442/parvezs2442/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+Learning:
+  - System Design
+  - Kubernetes
+  - Advanced AI Agents
+
+Building:
+  - Multi-Agent Interview Platform
+  - AI SQL Assistant
+
+Exploring:
+  - MCP
+  - Agentic AI
+
+OpenTo:
+  - Full Time
+  - Internship
+
+"Building software that scales with intelligence."
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6C63FF,100:3B1D78"/>
+</p>
