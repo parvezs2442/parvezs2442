@@ -1,21 +1,20 @@
 # 💫 About Me:
 
-# 💫 About Me:
+💻 Full Stack AI Engineer with hands-on experience building production-grade web applications and AI-powered systems using React.js, Next.js, Node.js, Express.js, TypeScript, PostgreSQL, MongoDB, and FastAPI.<br>
 
-💻 Full Stack Developer with hands-on experience building production-grade web applications using React.js, Next.js, Node.js, Express.js, PostgreSQL, and MongoDB<br>
+🤖 Specialized in Generative AI, designing Multi-Agent Systems, Retrieval-Augmented Generation (RAG) pipelines, and LLM-powered applications using LangChain, LangGraph, Gemini/OpenAI, Embeddings, and Vector Databases (Qdrant).<br>
 
-🚀 Built and deployed full-stack platforms including an AI-powered recruitment system, real-time collaborative code editor, and Job Tracking SaaS<br>
+🚀 Built and deployed production-ready projects including a Multi-Agent AI Interview Platform, AI SQL Assistant, TrackHire SaaS, and a Real-Time Collaborative Code Editor with secure authentication, scalable architectures, and cloud-native deployments.<br>
 
-🔭 Currently building scalable full-stack applications while exploring cloud deployments with Docker and AWS<br>
+🔭 Currently building intelligent SaaS applications while exploring Microservices, System Design, Docker, Redis, AWS (ECS & ECR), Kubernetes, and advanced AI Agents.<br>
 
-🌱 Continuously learning System Design, scalable backend architecture, DevOps, and modern web technologies<br>
+🌱 Continuously learning scalable backend architecture, distributed systems, cloud engineering, MCP, and Agentic AI to build enterprise-grade software.<br>
 
-🤝 Open to collaborating on impactful full-stack, SaaS, and AI-driven projects<br>
+🤝 Open to collaborating on impactful Full Stack, AI Engineering, SaaS, Open Source, and Cloud-Native projects.<br>
 
-💬 Ask me about JavaScript, TypeScript, React, Next.js, Node.js, REST APIs, PostgreSQL, MongoDB, Docker, and AWS<br>
+💬 Ask me about JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, FastAPI, LangChain, LangGraph, LLMs, RAG, PostgreSQL, MongoDB, Prisma, Docker, Redis, AWS, and System Design.<br>
 
-⚡ Fun fact: I enjoy turning complex real-world problems into clean, scalable software solutions.
-
+⚡ Fun fact: I love combining Software Engineering with Generative AI to build intelligent products that solve real-world problems.
 
 
 
