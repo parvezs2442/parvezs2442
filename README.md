@@ -51,5 +51,159 @@
 [![](https://visitcount.itsvg.in/api?id=parvezs2442&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+# 🚀 Featured Projects
+
+## 🤖 Multi-Agent AI Interview Platform
+
+> AI-powered interview platform built with a microservices architecture that simulates real technical interviews using multiple specialized AI agents.
+
+**✨ Highlights**
+- 🤖 Multi-Agent workflows using **LangGraph** & **LangChain**
+- 📄 AI-powered Resume Analysis
+- 🎯 Intelligent Interview Question Generation
+- 📊 Real-time Candidate Evaluation & Feedback
+- 🛣️ Personalized Career Roadmap Generation
+- 🔐 Firebase Authentication + Secure APIs
+- 🐳 Dockerized Microservices with Redis Caching
+- ☁️ Cloud-ready deployment on AWS
+
+**Tech Stack**
+
+`React.js` • `Node.js` • `Express.js` • `MongoDB` • `LangChain` • `LangGraph` • `Redis` • `Docker` • `Firebase` • `AWS`
+
+---
+
+## 🧠 AI SQL Assistant
+
+> Natural Language Database Assistant that allows users to interact with databases using plain English instead of SQL.
+
+**✨ Highlights**
+
+- 💬 Converts Natural Language into SQL Queries
+- 🧠 RAG Pipeline using Embeddings
+- 📚 Context-aware Schema Understanding
+- ⚡ FastAPI Backend
+- 🤖 Gemini/OpenAI Integration
+- 📈 Human-readable Responses
+- 🔍 Reduced LLM Hallucinations using Vector Search
+
+**Tech Stack**
+
+`Python` • `FastAPI` • `LangChain` • `LangGraph` • `Gemini API` • `Qdrant` • `Embeddings` • `SQL`
+
+---
+
+## 💼 TrackHire — Job Tracking SaaS
+
+> Modern SaaS platform for organizing and managing job applications.
+
+**✨ Highlights**
+
+- 📌 Kanban Job Board
+- 📅 Interview Tracking
+- 📊 Analytics Dashboard
+- 🔍 Advanced Search & Filtering
+- 🔐 JWT Authentication
+- 👤 Role-Based Access Control
+- ⚡ Optimized PostgreSQL Database
+
+**Tech Stack**
+
+`Next.js` • `TypeScript` • `PostgreSQL` • `Prisma` • `Tailwind CSS` • `REST APIs`
+
+---
+
+## 💻 CodeSync
+
+> Real-time collaborative code editor for developers.
+
+**✨ Highlights**
+
+- ⚡ Real-time Collaboration
+- 👨‍💻 Monaco Code Editor
+- 🔄 Live Synchronization
+- 🌐 Socket.IO Communication
+- 🔐 Authentication
+- 🚀 MERN Architecture
+
+**Tech Stack**
+
+`React.js` • `Node.js` • `Express.js` • `Socket.IO` • `MongoDB`
+
+---
+
+# 🤖 AI & GenAI Expertise
+
+✔ Large Language Models (LLMs)
+
+✔ Multi-Agent Systems
+
+✔ LangChain
+
+✔ LangGraph
+
+✔ Retrieval-Augmented Generation (RAG)
+
+✔ Prompt Engineering
+
+✔ Embeddings
+
+✔ Vector Databases (Qdrant)
+
+✔ Gemini API
+
+✔ AI Workflow Orchestration
+
+✔ REST API Development
+
+✔ Microservices Architecture
+
+✔ Docker & Redis
+
+✔ AWS ECS & ECR
+
+---
+
+# 🌱 Currently Working On
+
+- 🤖 Multi-Agent AI Applications
+- ☁️ Cloud Native Deployments
+- 🐳 Docker & Kubernetes
+- ⚙️ Distributed Systems
+- 🧠 Agentic AI & MCP
+- 📐 System Design
+- 🚀 Building Production-Ready SaaS Products
+
+---
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 📈 Profile Views
+
+[![](https://visitcount.itsvg.in/api?id=parvezs2442&icon=0&color=6)](https://visitcount.itsvg.in)
+
+---
+
+# 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/parvez-saifi-16940a361/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO_LINK)
+
+[![Email](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:parvezsaifi2258@gmail.com)
+
+---
+
+<h3 align="center">
+Building scalable software powered by AI • Full Stack • Cloud • Open Source
+</h3>
+
+<!-- Proudly created with ❤️ by Parvez Saifi -->
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
